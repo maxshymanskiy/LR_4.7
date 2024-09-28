@@ -6,7 +6,7 @@ int main()
 {
 	double xp, xk, x, dx, eps, a = 0, R = 0, S = 0;
 	int n = 0;
-	const double PI = 3.14159265359;
+	const double PI = 4 * atan(1.0);
 	cout << "xp = "; cin >> xp;
 	cout << "xk = "; cin >> xk;
 	cout << "dx = "; cin >> dx;
